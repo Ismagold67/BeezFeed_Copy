@@ -1,0 +1,61 @@
+{
+    "title":"Qual animal você seria?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual tipo de comida você tem preferência?",
+        "options":[
+          {"id": 1, "name":"Carnívora", "alias":"A"},
+          {"id": 2, "name":"Vegana", "alias":"B"},
+          {"id": 3, "name":"Tanto Faz", "alias":"C"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Se visse outro animal na sua frente, o que faria?",
+        "options":[
+          {"id": 1, "name":"Devorava", "alias":"A"},
+          {"id": 2, "name":"Não Fazia Nada", "alias":"B"},
+          {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual seria sua classificação animal?",
+        "options":[
+          {"id": 1, "name":"Selvagem", "alias":"A"},
+          {"id": 2, "name":"Terrestre", "alias":"C"},
+          {"id": 3, "name":"Aquático", "alias":"D"},
+          {"id": 4, "name":"Aéreo", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual seria o seu tamanho ?",
+        "options":[
+          {"id": 1, "name":"Grande", "alias":"A"},
+          {"id": 2, "name":"Normal", "alias":"B"},
+          {"id": 3, "name":"Enorme", "alias":"D"},
+          {"id": 4, "name":"Pequeno", "alias":"C"},
+          {"id": 5, "name":"Minúsculo", "alias":"C"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual seria seu habitát?",
+        "options":[
+          {"id": 1, "name":"Floresta", "alias":"C"},
+          {"id": 2, "name":"Savana", "alias":"A"},
+          {"id": 3, "name":"Deserto", "alias":"B"},
+          {"id": 4, "name":"Gelo", "alias":"C"},
+          {"id": 5, "name":"Mar", "alias":"D"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você muito provavelmente seria um Leão!",
+      "B": "Você muito provavelmente seria uma Águia!",
+      "C": "Você muito provavelmente seria uma Urso!",
+      "D": "Você muito provavelmente seria uma Peixe!"
+    }
+  }
