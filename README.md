@@ -1,4 +1,5 @@
 # ProjetoBuzzfeed
+Desenvolvido durante as aulas do Bootcamp Cloud Fullstack Bootcamp - Warburg Pincus da DIO, com o professor Felipe Aguiar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
